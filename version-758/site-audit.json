@@ -1,0 +1,23 @@
+{
+  "parsed_movies": 2000,
+  "generated_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_coverage": 2000,
+  "category_counts": {
+    "亚洲新片": 200,
+    "悬疑惊悚": 200,
+    "恐怖怪谈": 200,
+    "犯罪动作": 200,
+    "科幻奇幻": 200,
+    "剧情人文": 200,
+    "爱情喜剧": 200,
+    "热门剧集": 200,
+    "全球电影": 200,
+    "新片推荐": 200
+  },
+  "video_sources_from_uploaded_js": 150,
+  "search_index_items": 2000,
+  "html_pages": 2013,
+  "jpg_files_in_zip": 0
+}
